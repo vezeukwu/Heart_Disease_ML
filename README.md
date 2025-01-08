@@ -1,7 +1,6 @@
 # St Stephens Heart Disease EDA and ML Prediction
 
-![image](https://github.com/user-attachments/assets/b0d38102-2e63-469f-a8af-f9b9a528ec7c)
-
+![causes-heart-disease-diagram-100747333](https://github.com/user-attachments/assets/213f64fc-521a-4787-adad-b672febb50bd)
 
 ## Project Description:
 St Stephen’s Hospital and Maternity is a private owned hospital located in Lagos, Nigeria. It was founded in 1972 by an astute medical professional. The hospital provides a wide range of medical services, including but not limited to general medicine, surgery, pediatrics, obstetrics and gynecology. The Hospital is known for its state-of-the-art facilities, modern equipment, and highly skilled medical professionals. 
