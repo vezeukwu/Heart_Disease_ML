@@ -1,6 +1,6 @@
 # St Stephens Heart Disease EDA and ML Prediction
 
-![Uploading image.png…]()
+![image](https://github.com/user-attachments/assets/b0d38102-2e63-469f-a8af-f9b9a528ec7c)
 
 
 ## Project Description:
