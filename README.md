@@ -68,7 +68,7 @@ I checked for missing values and data inconsistencies in the dataset, standardiz
 The data was split into training and testing sets, with 80% of the data used for training the model and 20% for testing. This provided an unbiased evaluation of the model’s performance. I reviewed logistic regression and further examined 7 other machine algorithms to determine the model with optimal effectiveness in other to reduce issues arising from false predictions as human lives are involved and the project essence is to achieve early detection and avoid needless deaths.
 
 3. Model Evaluation
-The logistic regression is 86% accurate and a precision of 85% which doesnt appear as best, a further review of other models is shown below with random forest doing better with a 100% accuracy and precision.
+The Logistic Regression model, along with the Random Forest and other models, achieved an exceptional performance, delivering 100% accuracy and precision. This indicates that the models were not only able to correctly classify all instances but also had no false positives. 
 
 ## Conclusion
 This analysis provided a comprehensive workflow for building a heart disease classification model using various machine learning algorithms to determine the most effective classifier based on four key metrics: Accuracy, Precision, Recall, and ROC Score. The results provide clear insights into the performance of each model. The XGBoost Classifier, Random Forest, and Decision Tree consistently outperformed other models across all metrics, achieving perfect scores (100%) in Accuracy, Precision, Recall, and ROC Score. These models demonstrated accurate predictions, correctly identifying true positives, and distinguished between classes with high reliability.
