@@ -11,22 +11,36 @@ The primary goal is to uncover key patterns and relationships within the data th
 
 ## Dataset Description
 Source: Collected data from approximately 5500 medical patients evaluated for heart disease.
+
 Target Variable: Binary outcome indicating heart disease presence (1) or absence (0).
+
 Independent Variables: information believed to have an influence on the outcome to predict. Eg Age, Cholesterol level, Blood Pressure etc
-The Heart Disease Dataset contains information about 5500 medical patients evaluated for the presence of heart disease. Each record provides details on different patient characteristics that may influence the likelihood of a heart disease diagnosis. The dataset includes the following attributes:
+
+This Heart Disease Dataset contains information about 5500 medical patients evaluated for the presence of heart disease. Each record provides details on different patient characteristics that may influence the likelihood of a heart disease diagnosis. The dataset includes the following attributes:
 
 ## Feature Description
 Age - in years.
+
 Sex - (M=male, F= female).
+
 ChestPainType - (TA:typical angina. ATA: atypical angina, NAP:non-angina, ASY: asymptomatic).
+
 RestingBP- Resting Blood Pressure.
+
 Cholesterol- Serum Cholesterol in mg/dl.
-FastingBS - (Fasting Blood Sugar > 120mg/dl)(1 =true, 0= false)'
+
+FastingBS - (Fasting Blood Sugar > 120mg/dl)(1 =true, 0= false)
+
 RestingECG- Resting Electrocardiographic Results
+
 MaxHR - Maximum Heart Rate Achieved
+
 ExerciseAngina - Exercise Induced Angina (Y = yes, N= no).
+
 Oldpeak - ST depression induced by exercise relative to rest
+
 ST_Slope- the slope of the peak exercise ST segment
+
 HeartDisease - Have disease or not (1=yes, 0 = no) 
 
 ## Data Preparation (EDA)
